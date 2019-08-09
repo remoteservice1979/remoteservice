@@ -3,7 +3,7 @@
 
 DEMO:https://newproject-5d731.firebaseapp.com
 
-to hire me, email me harikrishna266@gmail.com
+to hire me, email me aftechiphone@gmail.com
 
 for bugs use github issue tracker 
 
